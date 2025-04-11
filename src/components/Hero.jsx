@@ -12,9 +12,9 @@ export default function Hero(){
           <div className="w-1 sm:h-80 h-40 violet-gradient" />
         </div>
         <div>
-          <h1 className={`${styles.heroHeadText}`}>Hi i'm <span className="text-[#915eff]">Daniella</span></h1>
+          <h1 className={`${styles.heroHeadText}`}>Hi i'm <span className="text-[#915eff]">John</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I am a girl <br className='sm:block hidden'/>that develops idk mehn😞
+            a 3d web developer <br className='sm:block hidden'/>a 3d web developer
           </p>
         </div>
 

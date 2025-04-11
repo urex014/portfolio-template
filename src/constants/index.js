@@ -42,19 +42,19 @@ import {
   
   const services = [
     {
-      title: "someone",
+      title: "first service",
       icon: web,
     },
     {
-      title: "fill this up",
+      title: "2nd service",
       icon: mobile,
     },
     {
-      title: "idk",
+      title: "3rd service",
       icon: backend,
     },
     {
-      title: "yoooooooo",
+      title: "4th service",
       icon: creator,
     },
   ];
@@ -72,7 +72,7 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    /*{
+    {
       name: "TypeScript",
       icon: typescript,
     },
@@ -111,60 +111,61 @@ import {
     {
       name: "docker",
       icon: docker,
-    },*/
+    },
   ];
   
   const experiences = [
     {
-      title: "Aui student",
-      company_name: "AUi",
+      title: "1st Role",
+      company_name: "Company name",
       icon: starbucks,
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Became an aui student through jupeb abi direct entry ",
-        "met benedicta and other people",
-        "Made it my goal to frustrate Amara",
-        "Participated in Class",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
       ],
     },
     {
-      title: "Amara's hg",
-      company_name: "Amara",
+      title: "2nd role",
+      company_name: "company's name",
       icon: tesla,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "frustrated Amara.",
-        "Made it my goal to frustrate Amara",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit ",
         "lorem ipsum latin latin",
         "lorem ipsum another latin",
       ],
     },
     {
-      title: "Wordpress developer",
-      company_name: "Wordpress",
+      title: "3rd role",
+      company_name: "company's name",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Date",
       points: [
-        "Acknowledged that Amara is a tall boy",
-        "Listened to Amara and became a wordpress developer.",
-        "then became successful of wordpress devloper.",
-        "i like niggas.",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        
       ],
     },
     {
-      title: "Went to python class",
-      company_name: "python class",
+      title: "3rd role",
+      company_name: "company's name",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Date - Date",
       points: [
-        "went to python class today and typed nonsense ",
-        "idk what python does ",
-        "i dont know what to write mehn",
-        "Bread and sardine.",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
       ],
     },
   ];
@@ -172,15 +173,15 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Daniella is good at what she does",
-      name: "Amara",
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+      name: "Janet Doe",
       designation: "CEO",
       company: "Connect",
       image: "https://randomuser.me/api/portraits/women/4.jpg",
     },
     {
       testimonial:
-        "I sing and i am a black man too",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
       name: "Chris Brown",
       designation: "singer",
       company: "Record label",
@@ -188,10 +189,10 @@ import {
     },
     {
       testimonial:
-        "Daniellaaaaa!",
-      name: "Benedicta",
-      designation: "student rep",
-      company: "Aui",
+        "lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatibus!",
+      name: "John doe",
+      designation: "software engineer",
+      company: "ceo",
       image: "https://randomuser.me/api/portraits/women/6.jpg",
     },
   ];
